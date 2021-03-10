@@ -24,9 +24,9 @@
 			<version>2.7.4</version>
 		</dependency>
 
-			<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 	</dependencies>

@@ -15,7 +15,6 @@ import liquibase.integration.spring.SpringLiquibase;
 
 @Configuration
 @ComponentScan("br.com")
-@EnableWebMvc
 public class AppConfig {
 	
 	private static final Logger log = LoggerFactory.getLogger(AppConfig.class);
